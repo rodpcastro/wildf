@@ -4,7 +4,7 @@ author = "Rodrigo Castro"
 version = "0.1.0"
 license = "MIT"
 homepage = "https://github.com/rodpcastro/wildf/"
-maintainer = "rodpcastro18@gmail.com"
+maintainer = "code@rpc.aleeas.com"
 copyright = "Copyright 2025, Rodrigo Castro"
 categories = ["mathematics", "special-functions", "numerical-computing", "scientific-computing"]
 
